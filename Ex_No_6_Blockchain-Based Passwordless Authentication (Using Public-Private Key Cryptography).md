@@ -89,7 +89,7 @@ contract PasswordlessAuthDemo {
 
 # Expected Output:
 
-<img width="1383" height="668" alt="image" src="https://github.com/user-attachments/assets/a403304e-c56e-4729-be1b-3746ab11cc9b" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/b9cfa55e-2c8b-49bf-b2e9-988848d0dadc" />
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
