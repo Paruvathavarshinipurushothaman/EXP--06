@@ -88,8 +88,7 @@ contract PasswordlessAuthDemo {
 ```
 
 # Expected Output:
-<img width="1916" height="901" alt="image" src="https://github.com/user-attachments/assets/8600717f-6d21-485b-b9d0-c00d39768c6c" />
-<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/258b367a-6689-4998-97af-2041b8ace9e9" />
+
 <img width="1383" height="668" alt="image" src="https://github.com/user-attachments/assets/a403304e-c56e-4729-be1b-3746ab11cc9b" />
 
 # High-Level Overview:
