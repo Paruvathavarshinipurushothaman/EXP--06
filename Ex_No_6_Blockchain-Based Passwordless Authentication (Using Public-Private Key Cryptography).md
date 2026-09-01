@@ -5,15 +5,9 @@ To implement a secure passwordless authentication system using public-private ke
 # Algorithm:
 Step 1: User Registration
 A user registers with their Ethereum public key (instead of a password).
-
-
 Step 2: Login Process
 When logging in, the user signs a random challenge message using their private key.
-
-
 The smart contract verifies the signature using the user’s public key.
-
-
 
 # Program:
 ```
@@ -94,23 +88,14 @@ contract PasswordlessAuthDemo {
 ```
 
 # Expected Output:
-Users can register without a password.
-
-
-Users sign a challenge with their private key for authentication.
-
-
-The smart contract verifies signatures to confirm identity.
-
-
+<img width="1916" height="901" alt="image" src="https://github.com/user-attachments/assets/8600717f-6d21-485b-b9d0-c00d39768c6c" />
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/258b367a-6689-4998-97af-2041b8ace9e9" />
+<img width="1383" height="668" alt="image" src="https://github.com/user-attachments/assets/a403304e-c56e-4729-be1b-3746ab11cc9b" />
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
-
-
 Uses Ethereum's built-in cryptographic functions.
-
-
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus, a blockchain-based passwordless authentication system using public-private key cryptography was successfully implemented on Ethereum.
